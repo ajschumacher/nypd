@@ -10,8 +10,8 @@ It is left to the data consumer to extract desired data. It has been helpfully n
 
 See also:
 * For another effort to maintain this data over time, see [some](https://classic.scraperwiki.com/scrapers/current-week-reported-crime-city-wide-and-for-prec/) [work](https://classic.scraperwiki.com/scrapers/nycrime/) at ScraperWiki.
-* The data feeding the [NYC Crime Map](http://maps.nyc.gov/crime/) is certainly related, and Tom Levine has done [work](https://github.com/tlevine/nyc-crime-map) to extract this data, in geoJSON format.
 * The Internet Archive [Wayback Machine](https://archive.org/web/) has occasionally archived some of these PDFs, so some historical data could be filled in that way.
+* The data feeding the [NYC Crime Map](http://maps.nyc.gov/crime/) is certainly related, and Tom Levine has done [work](https://github.com/tlevine/nyc-crime-map) to extract this data, in geoJSON format.
 * [Tabula](http://tabula.nerdpower.org/) (also [tabula-extractor](https://github.com/jazzido/tabula-extractor)) constitute another possible way to extract data from these PDFs.
 
 This archival process was set up as part of [Sunlight](http://sunlightfoundation.com/)'s 2014 [PDF Liberation](http://pdfliberation.wordpress.com/2013/11/15/hackathon/) hackathon ([hackpad](https://hackpad.com/PDF-Liberation-Hackathon-RoegEpdwJKE)).
