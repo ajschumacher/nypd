@@ -21,6 +21,6 @@ mv www.nyc.gov/html/nypd/html/crime_prevention/crime_statistics.shtml $DATED
 rm -rf www.nyc.gov
 
 # And send it to git
-git add .
+git add $DATED/.
 git commit -m "auto-update for $DATED"
 git push
