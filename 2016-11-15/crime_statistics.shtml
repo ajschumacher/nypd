@@ -1,0 +1,1215 @@
+
+
+
+		
+	
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta name="tp-name" content="basictext_visualeditor">
+
+		
+		
+
+		
+				<title>NYPD - Office of the Chief of Department</title>
+			
+		
+				
+			
+		<link href="../../includes/css/rollout.css" rel="stylesheet">
+	</head>
+
+	<body  background="../../includes/site_images/misc/bg.gif"  bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+		<!-- BEGIN_PRINT_PAGE -->
+		<table width="769" border="0" cellspacing="0" cellpadding="0" height="100%">
+		<!-- END_PRINT_PAGE -->
+			<tr>
+				<td colspan="2" align="left" valign="top" width="769">
+					<!-- START of nycgov_header.inc -->
+<style type="text/css">
+.header-footer-text {
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	line-height: 12px;
+
+}
+</style>
+<table width="769" border="0" cellspacing="0" cellpadding="5" style="background:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size:12px;">
+	<tr>
+		<td class="header-footer-text" style="width:458px;"><a href="/"><img src="http://www1.nyc.gov/assets/home/images/global/nyc_white.png" alt="" width="40" height="15" border="0" style="padding-left:7px;"></a></td>
+		<td class="header-footer-text" style="width:104px;text-align:center;border-right:1px solid #777;"><a href="http://www1.nyc.gov/nyc-resources/categories.page" style="color:#fff;text-decoration:none;">NYC Resources</a></td>
+		<td class="header-footer-text" style="width:30px;text-align:center;border-right:1px solid #777;"><a href="http://www1.nyc.gov/311/" style="color:#fff;text-decoration:none;">311</a></td>
+		<td class="header-footer-text" style="width:130px;text-align:center;"><a href="http://www1.nyc.gov/office-of-the-mayor/" style="color:#fff;text-decoration:none;">Office of the Mayor</a></td>
+	</tr>
+</table>
+<!-- END of nycgov_header.inc -->
+					
+							﻿<!-- START of default_header.inc -->
+<table width="769" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="left" valign="top" width="769">
+			<table width="769" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td align="left" valign="top" width="769"><a href="../../html/home/home.shtml"><img src="../../includes/site_images/branding/nypd_header.jpg" name="header" alt="New York City Police Department" width="769" border="0"></a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<!-- END of default_header.inc -->
+
+<script language="javascript">
+<!--
+function getPath(thePath) {
+	if (thePath == null) { return -1; }
+	var startSlash = thePath.lastIndexOf("/");
+	startSlash = thePath.lastIndexOf("/",startSlash -1);
+
+	if (startSlash == -1) {
+		return -1;
+	} else {
+		return thePath.substr(startSlash, thePath.length - startSlash);
+	}
+}
+
+// Returns folder, else -1.
+// ex. /folder/
+function getFolder(thePath) {
+	if (thePath == null) { return -1; }
+	var startSlash = thePath.lastIndexOf("/");
+	startSlash2 = thePath.lastIndexOf("/",startSlash -1);
+
+	if(startSlash == startSlash2) { return -1; }
+	if (startSlash == -1 || startSlash2 == -1) {
+		return -1;
+	} else {
+		return thePath.substr(startSlash2, startSlash - startSlash2 + 1);
+	}
+}
+
+var currentFolder = getFolder(location.href);
+var currentURL = getPath(location.href);
+
+if(currentURL == "/home/home.shtml") {
+	document.header.src = "../../includes/site_images/branding/nypd_header_home.jpg";
+} else if(currentURL == "/home/home_new.shtml") {
+	document.header.src = "../../includes/site_images/branding/header.jpg";
+}
+
+//alert("currentFolder: " + currentFolder + "\ncurrentURL: " + currentURL);
+
+//-->
+</script>
+
+						
+			</td></tr>
+			<!-- BEGIN_PRINT_PAGE -->
+			
+
+		<tr>
+				<!-- END_PRINT_PAGE -->
+				<td align="left" valign="top" width="180" height="100%">
+					
+						﻿<!-- START of Left Navigation -->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <Td id="translate_button" width="127"><a onMouseOver="MM_swapImage('ttp','','../../includes/site_images/branding/translate_1.gif',0)" onMouseOut="MM_swapImgRestore()" href="javascript:showTranslate();"><img src="../../includes/site_images/branding/translate_0.gif" name="ttp" id="ttp" alt="Translate this Page" border="0"></a></Td>
+  </tr>
+</table>
+<table width="180" height="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#d9deeb" id="navColumn">
+
+
+	<tr>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+		<td width="170" bgcolor="#9aa7c9" valign="top">
+			<form action="http://search1.nyc.gov/search?" name="searchform" method="get" style="display: inline;margin-top:0px; padding-top: 0px;">
+				<img src="../../includes/site_images/spacers/spacer.gif" height="2" />
+				<table width="100%" border="0" cellpadding="3" cellspacing="0">
+                  <tr>
+                    <td align="right"><input name="q" id="search_nycgov" type="text" value="Search" style="width: 120px; border:1px solid #355490;background-color:#d9deeb;font-family:Verdana;" /></td>
+                    <td align="left"><a href="#" onclick="document.searchform.submit();"><img src="../../includes/site_images/nav/nav_button_search.gif" border="0" /></a></td>
+                  </tr>
+                </table>
+    <img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+
+				&nbsp;&nbsp;<a href="../../html/home/home.shtml" class="nav_section">Home</a><br>
+				<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+				&nbsp;&nbsp;<a href="../../html/faq/faq.shtml" class="nav_section">FAQ</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/faq/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/faq/faq_police.shtml' class='nav_subsection'>Police Administration</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/faq/faq_community.shtml' class='nav_subsection'>Community Affairs</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/faq/faq_information.shtml' class='nav_subsection'>Crime Prevention</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+				<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+<!---				&nbsp;&nbsp;<a href="http://www.nyc.gov/portal/site/nycgov/menuitem.e26402ca665f72328c8bda1072289da0" class="nav_section">E-mail Alerts</a><br>--->
+
+				<input value="xml_no_dtd" name="output" type="hidden">
+
+				<input value="default_collection" name="site" type="hidden">
+				<input value="agency_frontend" name="proxystylesheet" type="hidden">
+				<input value="agency_frontend" name="client" type="hidden">
+				<input value="www.nyc.gov/html/nypd" name="sitesearch" type="hidden">
+			<img src="../../includes/site_images/spacers/spacer.gif" height="5" /></form></td>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+	</tr>
+	<tr>
+		<td width="180" colspan="3"><img src="../../includes/site_images/nav/nav_learn_about.gif"></td>
+
+	</tr>
+	<tr>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+		<td width="170" bgcolor="#9aa7c9">
+			&nbsp;&nbsp;<a href="../../html/administration/mission.shtml" class="nav_section">Mission</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/administration/administration.shtml" class="nav_section">Administration</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/careers/careers.shtml" class="nav_section">Careers</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/careers/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/nypd_application_forms.shtml' class='nav_subsubsection'>Applicant Forms</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://www.nypdrecruit.com' class='nav_subsection' target='_blank'>Recruitment Website</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/application_overview.shtml' class='nav_subsection'>Application Process</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/application_overview.shtml' class='nav_subsubsection'>Overview</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/applicant_training.shtml' class='nav_subsubsection'>Training</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/application_forms.shtml' class='nav_subsubsection'>Forms</a><br>";
+
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://www.nypdtrainees.com/' class='nav_subsection' target='_blank'>Post Application Process</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/auxiliary_police.shtml' class='nav_subsection'>Auxiliary Police</a><br>";
+
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml' class='nav_subsection'>Cadet Corps</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml#overview' class='nav_subsubsection'>Overview</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml#benefits' class='nav_subsubsection'>Benefits</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml#money_for_school' class='nav_subsubsection'>Money for School</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml#apprenticeship' class='nav_subsubsection'>Apprenticeship</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml#valuable_skills' class='nav_subsubsection'>Valuable Skills</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml#qualifications' class='nav_subsubsection'>Qualifications</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/cadet_corps.shtml#contact' class='nav_subsubsection'>Contact</a><br>";
+
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/school_safety.shtml' class='nav_subsection'>School Safety Agent</a><br>";
+
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/school_crossing_guard.shtml' class='nav_subsection'>School Crossing Guard</a><br>";
+
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/civilian_employment.shtml' class='nav_subsection'>Civilian Employment</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/civilian_employment.shtml' class='nav_subsubsection'>Civilian Opportunities</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/careers/civilian_application_process.shtml' class='nav_subsubsection'>Application Process</a><br>";
+	document.write(str);
+}
+//-->
+
+</script>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/police_academy/police_academy.shtml" class="nav_section">Police Academy</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/memorial/memorial_duty.shtml" class="nav_section">Memorials</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/memorial/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/memorial/memorial_duty.shtml' class='nav_subsection'>Line of Duty</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/memorial/memorial_service.shtml' class='nav_subsection'>In Service</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/memorial/memorial_armedforces.shtml' class='nav_subsection'>Armed Forces</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/memorial/memorial_wtc.shtml' class='nav_subsection'>9/11 Tribute</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/home/precincts.shtml" class="nav_section">Precincts</a><br>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/precinct_maps/precinct_finder.shtml" class="nav_section">Precinct Maps</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/home/contact_information.shtml" class="nav_section">Contact Us</a><br>
+			<img src="../../includes/site_images/spacers/spacer.gif" height="5" /></td>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+	</tr>
+	<tr>
+
+		<td width="180" colspan="3"><img src="../../includes/site_images/nav/nav_be_alert.gif"></td>
+	</tr>
+	<tr>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+		<td width="170" bgcolor="#9aa7c9">
+			&nbsp;&nbsp;<a href="../../html/pr/press_room.shtml" class="nav_section">Press Room</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/pr/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/pr/videos.shtml' class='nav_subsection'>Videos</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/pr/prindex_en_0.shtml' class='nav_subsection'>Press Releases</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/pr/podcasts.shtml' class='nav_subsection'>Podcasts</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/pr/podcasts.shtml#archive' class='nav_subsection'>Podcast Archive</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+
+			&nbsp;&nbsp;<a href="../../html/home/rewards.shtml" class="nav_section">Rewards</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/crime_prevention/crime_statistics.shtml" class="nav_section">Crime Statistics</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+<!---			&nbsp;&nbsp;<a href="../../html/traffic_reports/traffic_summons_reports.shtml" class="nav_section">Traffic Data</a><br>--->
+			&nbsp;&nbsp;<a href="../../html/traffic_reports/traffic_summons_reports.shtml" class="nav_section">Traffic Data</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/traffic_reports/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/traffic_reports/traffic_summons_reports.shtml' class='nav_subsection'>Moving Summonses</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/traffic_reports/motor_vehicle_collision_data.shtml' class='nav_subsection'>Vehicle Collision Data</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="http://www.nypdcrimestoppers.com" class="nav_section" target="_blank">Crime Stoppers</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="http://a056-crimestoppers.nyc.gov/crimestoppers/public/wanted.html" class="nav_section" target="_blank">Wanted</a><br>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="https://a056-crimestoppers.nyc.gov/crimestoppers/public/tip-form.cfm?pgLang=english&mwID=0" class="nav_section" target="_blank">Submit Internet Tip</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/missing_persons/missing_persons.shtml" class="nav_section">Missing Persons</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/missing_persons/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/missing_persons/missing_persons_man.shtml' class='nav_subsection'>Manhattan</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/missing_persons/missing_persons_bx.shtml' class='nav_subsection'>Bronx</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/missing_persons/missing_persons_bk.shtml' class='nav_subsection'>Brooklyn</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/missing_persons/missing_persons_qn.shtml' class='nav_subsection'>Queens</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/missing_persons/missing_persons_si.shtml' class='nav_subsection'>Staten Island</a><br>";
+	document.write(str);
+}
+//-->
+</script>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/crime_prevention/crime_prevention_section.shtml" class="nav_section">Crime Prevention</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/crime_prevention/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/citywide_vandals_taskforce.shtml' class='nav_subsection'>Vandals Task Force</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/anti_graffiti_initiatives.shtml' class='nav_subsubsection'>Initiatives</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/anti_graffiti_coordinators.shtml' class='nav_subsubsection'>Coordinators</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/anti_graffiti_rewards.shtml' class='nav_subsubsection'>Rewards</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/crime_prevention_tips.shtml' class='nav_subsubsection'>Crime Prevention Tips</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/domestic_violence.shtml' class='nav_subsubsection'>Domestic Violence</a><br>";
+
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/riding_the_subway.shtml' class='nav_subsection'>Riding the Subway</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/subway_information.shtml' class='nav_subsubsection'>Subway Information</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://www.ice.gov/victim-notification/' class='nav_subsection' target='_blank'>U.S. - I.C.E. Victim<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notification Program</a><br>";
+
+
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/crime_prevention/counterterrorism.shtml" class="nav_section">Counterterrorism</a><br>
+			<img src="../../includes/site_images/spacers/spacer.gif" height="5" /></td>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+	</tr>
+
+	<tr>
+		<td width="180" colspan="3"><img src="../../includes/site_images/nav/nav_services.gif"></td>
+	</tr>
+	<tr>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+		<td width="170" bgcolor="#9aa7c9">
+			&nbsp;&nbsp;<a href="../../html/property_clerk/police_auctions.shtml" class="nav_section">Police Auctions</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+
+			&nbsp;&nbsp;<a href="../../html/property_clerk/property_clerk.shtml" class="nav_section">Property Clerk</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/property_clerk/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/property_clerk/property_notices.shtml' class='nav_subsection'>Property Notices</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/property_clerk/property_offices.shtml' class='nav_subsection'>Property Offices</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/property_clerk/police_auctions.shtml' class='nav_subsection'>Police Auctions</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/towed_vehicles/towed_vehicles.shtml" class="nav_section">Towed Vehicles</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/towed_vehicles/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/towed_vehicles/tow_pounds.shtml' class='nav_subsection'>Tow Pounds</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/towed_vehicles/auto_pounds.shtml' class='nav_subsection'>Auto Pounds</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/community_affairs/community_affairs.shtml" class="nav_section">Community Affairs</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+
+<script language="javascript">
+<!--
+if(currentFolder == "/community_affairs/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/special_outreach_programs.shtml#CommunityPartnership' class='nav_subsection'>Community Partnership</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/community_partnership_events.shtml'  class='nav_subsubsection'>Events</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/crime_prevention/holiday_safety_tips_2007.shtml' class='nav_subsection'>Holiday Safety Tips</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/community_participation_programs.shtml' class='nav_subsection'>Participation Programs</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/annual_events.shtml' class='nav_subsection'>Annual Events</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/special_outreach_programs.shtml' class='nav_subsection'>Special Outreach</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/youth_programs.shtml' class='nav_subsection'>Youth Programs</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/youth_programs_explorers.shtml' class='nav_subsubsection'>Explorers</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/youth_programs.shtml#PoliceAthelticLeague' class='nav_subsubsection'>P.A.L.</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/community_affairs/youth_programs_summer_academy.shtml' class='nav_subsubsection'>Summer Academy</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/community_affairs/nypd_language_access_plan.shtml" class="nav_section">Language Access Plan</a><br>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/legal_matters/mous_nyc_rules.shtml" class="nav_section">MOUs/NYC Rules</a><br>
+
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/permits/permits.shtml" class="nav_section">Permits</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/permits/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../downloads/pdf/permits/PD_656-041A_Sound_Device_Application.pdf' target='_blank' class='nav_subsection'>Sound Device Permits</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/permits/parade_permits.shtml' class='nav_subsection'>Parade Permits</a><br>";
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/firearms_licensing/handgun_licensing_information.shtml" class="nav_section">Firearms Licensing</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/firearms_licensing/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/firearms_licensing/handgun_licensing_information.shtml' class='nav_subsection'>Handgun Licensing Info</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/firearms_licensing/handgun_licensing_application.shtml' class='nav_subsection'>Handgun Licensing Forms</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/firearms_licensing/handgun_licensing_leo_retirees.shtml' class='nav_subsection'>Retired LEO Licenses</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/firearms_licensing/rifle_licensing_information.shtml' class='nav_subsection'>Rifle/Shotgun Permits</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/firearms_licensing/gun_licensing_faq.shtml' class='nav_subsection'>Licensing FAQ</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../downloads/pdf/permits/title38_rcny_rev2010_11.pdf' target='_blank' class='nav_subsection'>License Division Rules</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/firearms_licensing/licensing_contact_information.shtml' class='nav_subsection'>Contact Information</a></a><br>";
+	document.write(str);
+}
+//-->
+</script>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+
+			&nbsp;&nbsp;<a href="../../html/record_inquiries/record_inquiries.shtml" class="nav_section">Record Inquiries</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/record_inquiries/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/record_inquiries/public_inquiry.shtml' class='nav_subsection'>Public Inquiry</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/record_inquiries/aided_records.shtml' class='nav_subsection'>Aided Records</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/record_inquiries/criminal_records_section.shtml' class='nav_subsection'>Criminal Records Section</a><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/home/employees.shtml" class="nav_section">Employees</a><br>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/analysis_and_planning/reports.shtml" class="nav_section">Reports and Information</a><br>
+
+
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="http://www.nypd2.org/retirement/home.html" target="_blank" class="nav_section">Retirees</a> <span class="highlight_bodytext">(external)</span><br>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/press_relations/press_relations.shtml" class="nav_section">Press Relations</a><img src="../../includes/site_images/nav/nav_arrow_down.gif" style="vertical-align:-3px;"><br>
+<script language="javascript">
+<!--
+if(currentFolder == "/press_relations/") {
+	var str = "";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/press_relations/operations.shtml' class='nav_subsection'>Operations</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../html/press_relations/credentials.shtml' class='nav_subsection'>Press Credentials</a><br>";
+	str += "&nbsp;&nbsp;&nbsp;&nbsp;<a href='../../downloads/pdf/press_relations/Press_Credentials_Application.pdf' class='nav_subsection' target='_blank'>Application</a> <span class='highlight_bodytext'>(pdf)</span><br>";
+
+	document.write(str);
+}
+//-->
+</script>
+
+			<img src="../../includes/site_images/nav/nav_nypd_divider.gif"><br>
+			&nbsp;&nbsp;<a href="../../html/crime_prevention/domestic_violence.shtml" class="nav_section">U visa Certification</a> <span class='highlight_bodytext'></span><br>
+<!--img border="0" src="../../images/misc/pdficon_small.png"-->
+			<img src="../../includes/site_images/spacers/spacer.gif" height="5" /></td>
+		<td width="5"><img src="../../includes/site_images/spacers/spacer.gif"></td>
+	</tr>
+	<tr>
+		<td width="180" height="100%" colspan="3">&nbsp;</td>
+
+	</tr>
+</table>
+
+<script language="javascript">
+<!--
+
+var navColumn = document.getElementById("navColumn");
+navColumn.parentNode.style.backgroundColor = "#d9deeb";
+
+// -->
+</script>
+
+<script type="text/javascript" src="../../includes/scripts/cookies.js"></script>
+<script type="text/javascript" src="../../includes/scripts/translate.js"></script>
+
+<iframe scrolling='no' frameborder='0' class='shim' name='shim' id='shim'></iframe>
+<div id="translate_popup" class="popup">
+  <table cellspacing="0" cellpadding="0" border="0" width="323">
+    <tr>
+      <td class="popup_table"><table cellspacing="0" cellpadding="0" border="0" width="284">
+          <tr>
+            <Td colspan="2"><img src="../../includes/site_images/misc/translate_popup.gif" width="284" height="39" alt="Translate this Page" border="0"></Td>
+          </tr>
+          <tr>
+            <td class="popup_label" width="123">Select a Language</td>
+            <td class="popup_field" width="147"><select name="tl" id="tl" style="width:147px">
+                <option value="">- Select -</option>
+                <option value="af">Afrikaans</option>
+                <option value="sq">Albanian</option>
+                <option value="ar">Arabic</option>
+                <option value="be">Belarusian</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh">Chinese</option>
+                <option value="zh-CN">Chinese (Simplified)</option>
+                <option value="zh-TW">Chinese (Traditional)</option>
+                <option value="hr">Croatian</option>
+                <option value="cs">Czech</option>
+                <option value="da">Danish</option>
+                <option value="nl">Dutch</option>
+                <option value="en">English</option>
+                <option value="et">Estonian</option>
+                <option value="tl">Filipino</option>
+                <option value="fi">Finnish</option>
+                <option value="fr">French</option>
+                <option value="gl">Galician</option>
+                <option value="de">German</option>
+                <option value="el">Greek</option>
+                <option value="ht">Haitian Creole</option>
+                <option value="iw">Hebrew</option>
+                <option value="hi">Hindi</option>
+                <option value="hu">Hungarian</option>
+                <option value="is">Icelandic</option>
+                <option value="id">Indonesian</option>
+                <option value="ga">Irish</option>
+                <option value="it">Italian</option>
+                <option value="pa">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="lv">Latvian</option>
+                <option value="lt">Lithuanian</option>
+                <option value="mk">Macedonian</option>
+                <option value="ms">Malay</option>
+                <option value="mt">Maltese</option>
+                <option value="no">Norwegian</option>
+                <option value="fa">Persian</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="pt-PT">Portuguese (Portugal)</option>
+                <option value="ro">Romanian</option>
+                <option value="ru">Russian</option>
+                <option value="sr">Serbian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="es">Spanish</option>
+                <option value="sw">Swahili</option>
+                <option value="sv">Swedish</option>
+                <option value="tl">Tagalog</option>
+                <option value="th">Thai</option>
+                <option value="tr">Turkish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
+                <option value="cy">Welsh</option>
+                <option value="yi">Yiddish</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td class="buttons" colspan="2"><input type="button" class="yellow_button" style="width:78px;" value="Translate" onClick="setLanguage(document.getElementById('tl').options[document.getElementById('tl').selectedIndex].value)" />
+              <input type="button" class="yellow_button" style="width:56px;" value="Cancel" onClick="hideTranslate()" /></td>
+          </tr>
+        </table></td>
+  </table>
+</div>
+<div style="display:none; position:absolute; top:0px; left:0px;">
+  <div id="google_translate_element"></div>
+  <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+}
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- END of Left Navigation -->
+
+
+						
+				</td>
+				<!-- BEGIN_PRINT_PAGE -->
+				<!-- START of CENTER column -->
+
+				<td id="main_content" align="left" valign="top" width="589">
+				<!-- START of PAGE TITLE AREA -->
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  <tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"/><span class="page_title">Crime Prevention</span>
+									<span class="page_subtitle"> | Crime Statistics</span>
+								
+							</td></tr>
+
+
+                                          
+
+						 
+						<tr>
+						<td align="left" bgcolor="" valign="top" width="30">
+						
+						
+						
+						</td>
+						<td align="left" bgcolor="" valign="top" width="499">
+						
+						
+
+							 
+							   
+							 
+
+							
+
+
+							</td><td align="left" bgcolor="" valign="top" width="60">
+						
+						
+						
+							</td>
+							</tr>
+						
+
+
+					  
+				   
+				</table>
+
+				<!-- END of PAGE TITLE AREA -->
+
+				<!-- START of FEATURE AREA -->
+
+				<table width="589" border="0" cellspacing="0" cellpadding="0">
+				  
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+								<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"/><span class="area_header">CompStat 2.0<br></span>
+								
+							
+							</td></tr>
+						
+					
+					<tr><td align="left" bgcolor="" valign="top" width="30">
+					<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+					  <td align="left" bgcolor="" valign="top" width="499">
+					  <img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									<span class="bodytext"><p style="MARGIN-top: 0in"><a target="_blank" href="https://compstat.nypdonline.org" title="CompStat2.0"><img height="66" width="385" src="../../images/crime_prevention/CompStat2_crimestat-page.png" alt="CompStat2.0" border="0" title="CompStat2.0" onmouseout="function onmouseout() { this.src='../../images/crime_prevention/CompStat2_crimestat-page.png' }" onmouseover="function onmouseover() { this.src='../../images/crime_prevention/CompStat2_crimestat-page-hover.png' }" /></a></p></span>
+								
+
+						<br>
+							
+							
+						
+					  
+						
+						
+					   
+					 
+					   
+							<span class="bodytext"><br></span>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+								<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"/><span class="area_header">City Wide Crime Statistics<br></span>
+								
+							
+							</td></tr>
+						
+					
+					<tr><td align="left" bgcolor="" valign="top" width="30">
+					<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+					  <td align="left" bgcolor="" valign="top" width="499">
+					  <img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									<span class="bodytext"><p align="left" style="MARGIN-top: 0in">City Wide Crime Statistics Weekly <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-city.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-city.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<p align="left">City of New York Department of Correction Crime Statistics <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-Correction.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-Correction.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a> <br /><br />New York City Housing Authority Crime Statistics Weekly <a target="_blank" href="../../downloads/pdf/crime_statistics/hb_eagle_report.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/hb_eagle_report.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<p align="left">New York City Park Crime Statistics Third Quarter 2016&nbsp;<a target="_blank" href="../../downloads/pdf/analysis_and_planning/city_council_parks_report-3rd_qtr_2016.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a>&nbsp;<a target="_blank" href="../../downloads/excel/analysis_and_planning/city_council_parks_report-3rd_qtr_2016.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<p align="left">New York City Park Crime Statistics Second Quarter 2016&nbsp;<a target="_blank" href="../../downloads/pdf/crime_statistics/city_council_parks_report-2nd_qtr_2016.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a>&nbsp;<a target="_blank" href="../../downloads/excel/crime_statistics/city_council_parks_report-2nd_qtr_2016.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<p align="left">New York City Park Crime Statistics First Quarter 2016&nbsp;<a target="_blank" href="../../downloads/pdf/analysis_and_planning/city-council-parks-report-1st-qtr-2016.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a>&nbsp;<a target="_blank" href="../../downloads/excel/analysis_and_planning/city-council-parks-report-1st-qtr-2016.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<p align="left">New York City Park Crime Statistics Fourth Quarter 2015&nbsp;<a target="_blank" href="../../downloads/pdf/crime_statistics/nyc_park_crime_stats_q4_2015.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a>&nbsp;<a target="_blank" href="../../downloads/excel/crime_statistics/nyc_park_crime_stats_q4_2015.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<p align="left">New York City Park Crime Statistics Third Quarter 2015 <a target="_blank" href="../../downloads/pdf/crime_statistics/nyc_park_crime_stats_q3_2015.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/nyc_park_crime_stats_q3_2015.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<p align="left">New York City Park Crime Statistics Second Quarter 2015 <a target="_blank" href="../../downloads/pdf/crime_statistics/nyc_park_crime_stats_q2_2015.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/nyc_park_crime_stats_q2_2015.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /> </a><br /><br />New York City Park Crime Statistics First Quarter 2015 <a target="_blank" href="../../downloads/pdf/crime_statistics/nyc_park_crime_stats_q1_2015.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/nyc_park_crime_stats_q1_2015.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /> </a></p>
+<p align="left">New York City Park Crime Statistics Fourth Quarter 2014 <a target="_blank" href="../../downloads/pdf/crime_statistics/nyc_park_crime_stats_q4_2014.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/omap/nyc_park_crime_stats_q4_2014.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a><br /><br />New York City Park Crime Statistics Third Quarter 2014<a target="_blank" href="../../downloads/pdf/crime_statistics/nyc_park_crime_stats_q3_2014.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/omap/nyc_park_crime_stats_q3_2014.xls"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></p>
+<div></div>
+<p align="left"><br /><a href="../analysis_and_planning/historical_nyc_crime_data.shtml">Historical New York City Crime Data</a></p>
+<p align="left"><br /><a target="_blank" href="../../downloads/excel/crime_statistics/Felony.csv"><b>Incident Level Data</b><br />(Seven Major Index Crime Categories - CSV Format) First, Second and Third Quarter 2015<img src="../../images/misc/excell_icon_small.png" border="0" /><br /></a><a target="_blank" href="../../downloads/pdf/analysis_and_planning/NYPDIncidentLevelDataFootnotes.pdf">NYPD Incident Level Data Footnotes <img src="../../images/misc/pdficon_small.png" border="0" /></a></p>
+<div data-mce-bogus="1" style="overflow: hidden; height: 1px; width: 1px; position: absolute; left: -40px; top: -25px;" class="mcePaste" id="_mcePaste"></div></span>
+								
+
+						<br>
+							
+							
+						
+					  
+						
+						
+					   
+					 
+					   
+							<span class="bodytext"><br></span>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+								<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"/><span class="area_header">Borough and Precinct Crime Statistics<br></span>
+								
+							
+							</td></tr>
+						
+					
+					<tr><td align="left" bgcolor="" valign="top" width="30">
+					<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+					  <td align="left" bgcolor="" valign="top" width="499">
+					  <img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									<span class="bodytext"><table border="0" width="499" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>Manhattan South <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbms.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbms.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>Manhattan North <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbmn.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbmn.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>1st Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-001pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-001pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>19th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-019pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-019pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>5th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-005pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-005pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>20th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-020pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-020pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>6th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-006pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-006pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>Central Park Precinct<a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-022pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-022pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>7th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-007pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-007pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>23rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-023pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-023pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>9th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-009pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-009pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>24th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-024pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-024pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>10th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-010pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-010pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>25th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-025pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-025pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>13th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-013pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-013pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>26th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-026pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-026pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>Midtown South Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-014pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-014pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>28th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-028pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-028pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>17th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-017pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-017pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>30th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-030pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-030pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>Midtown North Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-018pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-018pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>32nd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-032pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-032pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+<td>33rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-033pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-033pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+<td>34th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-034pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-034pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+</tbody>
+</table></span>
+								
+
+						<br>
+							
+							
+						
+					  
+						
+						
+					   
+					 
+					   
+							<span class="bodytext"><br></span>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+							</td></tr>
+						
+					
+					<tr><td align="left" bgcolor="" valign="top" width="30">
+					<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+					  <td align="left" bgcolor="" valign="top" width="499">
+					  <img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									<span class="bodytext"><table border="0" width="499" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>Brooklyn South <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbbs.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbbs.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>Brooklyn North <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbbn.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbbn.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>60th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-060pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-060pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>73rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-073pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-073pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>61st Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-061pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-061pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>75th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-075pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-075pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>62nd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-062pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-062pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>77th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-077pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-077pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>63rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-063pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-063pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>79th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-079pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-079pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>66th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-066pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-066pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>81st Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-081pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-081pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>67th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-067pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-067pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>83rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-083pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-083pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>68th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-068pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-068pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>84th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-084pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-084pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>69th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-069pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-069pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>88th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-088pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-088pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>70th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-070pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-070pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>90th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-090pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-090pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>71st Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-071pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-071pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>94th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-094pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-094pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>72nd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-072pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-072pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>76th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-076pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-076pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>78th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-078pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-078pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+</tbody>
+</table></span>
+								
+
+						<br>
+							
+							
+						
+					  
+						
+						
+					   
+					 
+					   
+							<span class="bodytext"><br></span>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+							</td></tr>
+						
+					
+					<tr><td align="left" bgcolor="" valign="top" width="30">
+					<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+					  <td align="left" bgcolor="" valign="top" width="499">
+					  <img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									<span class="bodytext"><table border="0" width="499" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>Queens South<a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbqs.pdf"> <img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbqs.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>Queens North<a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbqn.pdf"> <img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbqn.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>100th Precinct<a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-100pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-100pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>104th Precinct<a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-104pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-104pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>101st Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-101pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-101pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>108th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-108pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-108pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>102nd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-102pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-102pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>109th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-109pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-109pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>103rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-103pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-103pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>110th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-110pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-110pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>105th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-105pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-105pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>111th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-111pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-111pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>106th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-106pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-106pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>112th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-112pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-112pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>107th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-107pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-107pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>114th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-114pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-114pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>113th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-113pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-113pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>115th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-115pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-115pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+</tbody>
+</table></span>
+								
+
+						<br>
+							
+							
+						
+					  
+						
+						
+					   
+					 
+					   
+							<span class="bodytext"><br></span>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+							</td></tr>
+						
+					
+					<tr><td align="left" bgcolor="" valign="top" width="30">
+					<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+					  <td align="left" bgcolor="" valign="top" width="499">
+					  <img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									<span class="bodytext"><table border="0" width="499" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>Bronx <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbbx.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbbx.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>Staten Island <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-pbsi.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-pbsi.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+<td><img height="5" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>40th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-040pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-040pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>120th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-120pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-120pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>41st Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-041pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-041pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>121st Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-121pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-121pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>42nd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-042pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-042pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>122nd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-122pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-122pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>43rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-043pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-043pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td>123rd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-123pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-123pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+</tr>
+<tr>
+<td>44th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-044pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-044pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>45th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-045pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-045pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>46th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-046pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-046pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>47th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-047pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-047pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>48th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-048pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-048pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>49th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-049pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-049pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>50th Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-050pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-050pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+<tr>
+<td>52nd Precinct <a target="_blank" href="../../downloads/pdf/crime_statistics/cs-en-us-052pct.pdf"><img src="../../images/misc/pdficon_small.png" border="0" /></a> <a target="_blank" href="../../downloads/excel/crime_statistics/cs-en-us-052pct.xlsx"><img src="../../images/misc/excell_icon_small.png" border="0" /></a></td>
+<td><img height="1" width="1" src="../../includes/site_images/spacers/spacer.gif" border="0" /></td>
+</tr>
+</tbody>
+</table></span>
+								
+
+						<br>
+							
+							
+						
+					  
+						
+						
+					   
+					 
+					   
+							<span class="bodytext"><br></span>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+							</td></tr>
+						
+					
+					<tr><td align="left" bgcolor="" valign="top" width="30">
+					<img src="../../includes/site_images/spacers/spacer_30_30.gif" alt="" width="30" height="30" border="0"></td>
+					  <td align="left" bgcolor="" valign="top" width="499">
+					  <img src="../../includes/site_images/spacers/spacer_499_15.gif" alt="" width="499" height="15" border="0"><br>
+					  
+							
+						
+					  
+							
+							
+									<span class="bodytext"><a href="../analysis_and_planning/historical_nyc_crime_data.shtml">Historical New York City Crime Data</a></span>
+								
+
+						<br>
+							
+							
+						
+					  
+						
+						
+					   
+					 
+					   
+							<span class="bodytext"><br></span>
+						
+					 
+					 
+					
+					</td><td align="left" bgcolor="" valign="top" width="60"><img src="../../includes/site_images/spacers/spacer_60_30.gif" alt="" width="60" height="30" border="0"></td></tr>
+					
+					  
+				   
+					  
+						<tr><td colspan="3" align="left" valign="top" bgcolor="" width="589">
+							
+							
+							</td></tr>
+						
+					
+					  
+				   
+				</table><!-- END of FEATURE AREA -->
+				<!-- END_PRINT_PAGE -->
+				
+
+				
+
+				<span class="footer_text"><br></span></td><!-- END of CENTER column --></tr>
+			<tr height="25">
+				<td colspan="2" align="left" valign="top" width="769" height="25">
+				
+
+					
+
+				
+
+					<!-- START of nycgov_footer.inc-->
+<table width="769" border="0" cellspacing="0" cellpadding="5" style="background:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size:12px;">
+	<tr>
+		<td class="header-footer-text" style="width:423px;padding-left:16px;color:#bbb;">Copyright <script language="javascript">document.write(new Date().getFullYear());</script> The City of New York</td>
+		<td class="header-footer-text" style="width:90px;text-align:center;border-right:1px solid #777;"><a href="http://www1.nyc.gov/home/contact-us.page" style="color:#fff;text-decoration:none;">Contact Us</a></td>
+		<td class="header-footer-text" style="width:100px;text-align:center;border-right:1px solid #777;"><a href="http://www1.nyc.gov/home/privacy-policy.page" style="color:#fff;text-decoration:none;">Privacy Policy</a></td>
+		<td class="header-footer-text" style="width:100px;text-align:center;"><a href="http://www1.nyc.gov/home/terms-of-use.page" style="color:#fff;text-decoration:none;">Terms of Use</a></td>
+	</tr>
+</table>
+<!-- webtrends -->
+<script type="text/javascript">
+	var prod_dcsId_val = "dcs22250jc36dab0lr8tu7d5s_7i9x";
+</script>
+<script type="text/javascript" src="http://www1.nyc.gov/assets/home/js/webtrends/webtrends_v10.js"></script>
+<!-- End Analytics Tagging 12/30/14. (NYC.gov Specific) -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9518673-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- END of nycgov_footer.inc-->
+
+				<!-- BEGIN_PRINT_PAGE -->
+				</td>
+			</tr>
+		</table>
+			<!-- END_PRINT_PAGE -->
+	</body>
+</html>
+
+
